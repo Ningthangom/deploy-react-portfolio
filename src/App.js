@@ -38,12 +38,16 @@ function App() {
     
     />
         <Navbar/>
+        <div className= "">
         <Header/>
-        <Aboutme/>
+        <div style={{marginBottom:'8rem'}}><Aboutme/></div>
+        
         <Services/>
         <Projects/>
         <Contact/>
         <Footer/>
+        </div>
+        
     </>
   );
 }

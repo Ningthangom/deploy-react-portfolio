@@ -8,7 +8,7 @@ import mernstack from "../images/mernstack.png"
 
 const Services = () => {
     return (
-        <div id="services" className="services">
+        <div id="services" className="services" >
             <div  className="py-5">
                 <h1 className="services-heading"style={{
                     margin:"1rem",

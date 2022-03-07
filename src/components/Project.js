@@ -47,7 +47,7 @@ const Projects = () => {
           <div className="col-md-4 col-sm-6">
             <div
               className="card bg-dark projects-cards"
-              style={{ margin: "0.7rem" }}
+              style={{marginLeft: '4vw', marginBottom: '2vh', marginRight: '4vw'}}
             >
               {/* <img className="img img-thumbnail cardgame" src={cardgame} alt="" style={{
                                         height:"15rem",
@@ -102,7 +102,7 @@ const Projects = () => {
           <div className="col-md-4 col-sm-6">
             <div
               className="card bg-dark projects-cards"
-              style={{ margin: "0.7rem" }}
+               style={{marginLeft: '4vw', marginBottom: '2vh', marginRight: '4vw'}}
             >
               <img
                 className="img img-thumbnail cardgame"
@@ -154,7 +154,7 @@ const Projects = () => {
           <div className="col-md-4 col-sm-8">
             <div
               className="card bg-dark projects-cards"
-              style={{ margin: "0.7rem" }}
+              style={{marginLeft: '4vw', marginBottom: '2vh', marginRight: '4vw'}}
             >
               <img
                 className="img img-thumbnail cardgame"
@@ -207,7 +207,7 @@ const Projects = () => {
           <div className="col-md-4 col-sm-6">
             <div
               className="card bg-dark projects-cards"
-              style={{ margin: "0.7rem" }}
+              style={{marginLeft: '4vw', marginBottom: '2vh', marginRight: '4vw'}}
             >
               <img
                 className="img img-thumbnail cardgame"
@@ -259,7 +259,7 @@ const Projects = () => {
           <div className="col-md-4 col-sm-6">
             <div
               className="card bg-dark projects-cards"
-              style={{ margin: "0.7rem" }}
+              style={{marginLeft: '4vw', marginBottom: '2vh', marginRight: '4vw'}}
             >
               <img
                 className="img img-thumbnail cardgame"

@@ -39,7 +39,9 @@ const Contact = () => {
     return (
         <div id="contact" className="contacts bg-dark" style={{
             padding: "3rem 0",
-            marginLeft: '2%'
+            marginLeft: '2vw',
+            marginRight: '2vw',
+            borderRadius:'2rem'
         }}>
             <div className="text-center">
                 <h1 style={{
@@ -110,12 +112,12 @@ const Contact = () => {
                             color:"white"
                         }}>{errors.subject && errors.subject.message }</p>
                     </div>
-                    <div className="col-md-6 col-xs-12">
+                    <div className="col-md-5 col-xs-12">
                            {/* short decription*/}
-                           <textarea id="decription"type="text" className="form-control" placeholder="Description" name="decription">
+                           <textarea id="decription"type="text" className="form-control" placeholder="Description" name="decription" >
                             </textarea>
                             <button className="btn-main-offer contact-btn btn" type="submit" style={{
-                                textTransform:"uppercase"
+                                textTransform:"uppercase", color: "white"
 
                             }}>Contact Me</button>
                     </div>

@@ -2,7 +2,7 @@
 
  This app is an react porfolio which includes contact, projects, services. 
 
- Live app's here : https://Ningthangom.github.io/deploy-react-portfolio
+ Live app's here : https://angelo101.netlify.app/deploy-react-portfolio
 ![gif](/deployreact.gif)
 
 

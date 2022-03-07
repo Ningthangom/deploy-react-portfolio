@@ -22,6 +22,12 @@ body {
   padding: 10px;
 } */
 
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Cinzel&family=Lobster&family=Moon+Dance&family=Pacifico&display=swap');
+.welcome {
+   font-family: 'Abril Fatface', cursive;
+   text-shadow: 1px 1px red;
+}
+
 .footer {
   flex-shrink: 0;
   text-align: center;
@@ -156,8 +162,6 @@ body {
 
 #aboutme {
   color: white;
-  height: 100vh;
-  
 }
 .meHeading{
   color: orange;
@@ -230,14 +234,15 @@ body {
 }
 
 .card {
-  background-color: #222831;
+  background-color: #d9dce2;
   height: 37rem;
   border-radius: 5px;
   display: flex;
   flex-direction: column;
   align-items: center;
   box-shadow: rgba(0, 0, 0, 0.7);
-  color: white;
+  color: rgb(243, 234, 234);
+
 }
 .aboutMe-text{
   color: black;
