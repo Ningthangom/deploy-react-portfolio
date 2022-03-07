@@ -18,7 +18,7 @@ const Header = () => {
                 
                 />
                 <Link  smooth={true} to="contact" href="#" className="contact-button"> contact me</Link>
-                <a href="https://docs.google.com/document/d/1xWTqWf9apBM7U-3yqofVIrOex6bsbLIHKscqFihoDgY/edit?usp=sharing" target="_blank" rel="noreferrer" className="contact-button"> Resume </a>
+                <a href="https://docs.google.com/document/d/1L5Qgic54Fk9C3YoFxUSVYf7SGQHl6n5KBJW3qJCb5To/edit?usp=sharing" target="_blank" rel="noreferrer" className="contact-button"> Resume </a>
             </div>
         </div>
     )

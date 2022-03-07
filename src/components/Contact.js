@@ -38,7 +38,8 @@ const Contact = () => {
       
     return (
         <div id="contact" className="contacts bg-dark" style={{
-            padding: "3rem 0"
+            padding: "3rem 0",
+            marginLeft: '2%'
         }}>
             <div className="text-center">
                 <h1 style={{

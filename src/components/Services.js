@@ -21,7 +21,7 @@ const Services = () => {
                     alignItems:"center"
                 }}>
                     <div className="col-md-6 col-sm-6">
-                        <div className="card" style={{width: "23rem", marginLeft:"0.7rem"}}>
+                        <div className="card" style={{width: "23rem", marginLeft:"6%"}}>
                             <img className="card-img-top" src={mernstack} style={{height:"23rem"}}alt="Card image cap"/>
                             <div className="card-body" style={{
                                 background:"grey"
@@ -33,7 +33,7 @@ const Services = () => {
                         </div>
                     {/*  */}
                     <div className="col-md-6 col-sm-6">
-                        <div className="card" style={{width: "23rem", margin:"0.7rem"}}>
+                        <div className="card" style={{width: "23rem", margin:"6%"}}>
                             <img className="card-img-top" src={webdesign} alt="Card image cap"/>
                             <div className="card-body" style={{
                                 background:"grey"

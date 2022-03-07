@@ -154,9 +154,10 @@ body {
   border:0.0625rem solid red ;
 }
 
-.aboutme {
+#aboutme {
   color: white;
-  /* height: 50vh; */
+  height: 100vh;
+  
 }
 .meHeading{
   color: orange;
